@@ -1,0 +1,107 @@
+[
+  {
+    "id": "dialogue_alex_first",
+    "npcId": "npc_001",
+    "lines": [
+      {
+        "speaker": "Alex",
+        "text": "Eh... ¿qué pasa? Estoy buscando mi vaper, ¿lo viste?",
+        "options": [
+          { "text": "Sí, lo vi por ahí", "nextLineIndex": 1 },
+          { "text": "¿Por qué lo necesitas tanto?", "nextLineIndex": 2 }
+        ]
+      },
+      {
+        "speaker": "Alex",
+        "text": "¡Genial! Me pongo muy ansioso sin él...",
+        "options": []
+      },
+      {
+        "speaker": "Alex",
+        "text": "Bueno... es que fumo bastante. No sé qué haría sin el vaper.",
+        "options": [
+          { "text": "Eso suena adictivo", "nextLineIndex": 3 },
+          { "text": "¿Nunca pensaste en dejar de fumar?", "nextLineIndex": 4 }
+        ]
+      },
+      {
+        "speaker": "Alex",
+        "text": "Sí... probablemente lo sea. Pero todos mis amigos lo hacen.",
+        "options": []
+      },
+      {
+        "speaker": "Alex",
+        "text": "No es tan fácil. Además, dijeron que esto es más seguro que los cigarrillos.",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "dialogue_morgan_first",
+    "npcId": "npc_002",
+    "lines": [
+      {
+        "speaker": "Morgan",
+        "text": "...",
+        "options": [
+          { "text": "¿Estás bien?", "nextLineIndex": 1 },
+          { "text": "Déjame en paz", "nextLineIndex": 5 }
+        ]
+      },
+      {
+        "speaker": "Morgan",
+        "text": "¿Bien? No, no estoy bien. Últimamente todo se siente... vacío.",
+        "options": [
+          { "text": "Cuéntame qué pasa", "nextLineIndex": 2 },
+          { "text": "¿Has hablado con alguien?", "nextLineIndex": 3 }
+        ]
+      },
+      {
+        "speaker": "Morgan",
+        "text": "No sé ni por dónde empezar. Es como si nada tuviera sentido.",
+        "options": []
+      },
+      {
+        "speaker": "Morgan",
+        "text": "¿Hablar? ¿Con quién? Nadie entiende.",
+        "options": [
+          { "text": "Yo entiendo. Busquemos ayuda juntos", "nextLineIndex": 4 }
+        ]
+      },
+      {
+        "speaker": "Morgan",
+        "text": "Quizás... quizás tienes razón. Gracias por estar aquí.",
+        "options": []
+      },
+      {
+        "speaker": "Morgan",
+        "text": "...",
+        "options": []
+      }
+    ]
+  },
+  {
+    "id": "dialogue_jordan_first",
+    "npcId": "npc_003",
+    "lines": [
+      {
+        "speaker": "Jordan",
+        "text": "¡Hola! ¿Cómo estás? Si necesitas ayuda con algo, aquí estoy.",
+        "options": [
+          { "text": "Todo bien, gracias", "nextLineIndex": 1 },
+          { "text": "¿Has visto a Morgan últimamente?", "nextLineIndex": 2 }
+        ]
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Me alegra escuchar eso. ¡Que disfrutes tu día!",
+        "options": []
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Sí, Morgan se ve triste. Creo que debería hablar con alguien.",
+        "options": []
+      }
+    ]
+  }
+]
