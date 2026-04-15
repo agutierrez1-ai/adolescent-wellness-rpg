@@ -1,0 +1,35 @@
+[
+  {
+    "id": "npc_001",
+    "name": "Alex",
+    "description": "Un adolescente en apuros",
+    "zone": "zone_01_village",
+    "position": { "x": 15, "y": 15 },
+    "initialDialogueId": "dialogue_alex_first",
+    "tint": 0xff6b6b,
+    "type": "troubled_teen",
+    "issue": "vapeo"
+  },
+  {
+    "id": "npc_002",
+    "name": "Morgan",
+    "description": "Alguien con depresión",
+    "zone": "zone_01_village",
+    "position": { "x": 20, "y": 20 },
+    "initialDialogueId": "dialogue_morgan_first",
+    "tint": 0x6b7adb,
+    "type": "isolado",
+    "issue": "depression"
+  },
+  {
+    "id": "npc_003",
+    "name": "Jordan",
+    "description": "Amigo de confianza",
+    "zone": "zone_01_village",
+    "position": { "x": 10, "y": 20 },
+    "initialDialogueId": "dialogue_jordan_first",
+    "tint": 0x51cf66,
+    "type": "helper",
+    "issue": "none"
+  }
+]
