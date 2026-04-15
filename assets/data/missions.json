@@ -1,0 +1,27 @@
+[
+  {
+    "id": "mission_001",
+    "title": "Habla con Alex",
+    "description": "Encuentra a Alex y descubre qué le preocupa",
+    "npcId": "npc_001",
+    "objectives": [
+      { "type": "talk_to_npc", "npcId": "npc_001" }
+    ],
+    "rewards": {
+      "emotionalBalance": 5
+    }
+  },
+  {
+    "id": "mission_002",
+    "title": "Ayuda a Morgan",
+    "description": "Morgan necesita alguien con quien hablar. Escúchalo y ofrécele apoyo.",
+    "npcId": "npc_002",
+    "objectives": [
+      { "type": "talk_to_npc", "npcId": "npc_002" },
+      { "type": "complete_dialogue", "dialogueId": "dialogue_morgan_first" }
+    ],
+    "rewards": {
+      "emotionalBalance": 15
+    }
+  }
+]
