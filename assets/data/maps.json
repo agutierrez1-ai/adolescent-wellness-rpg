@@ -1,0 +1,10 @@
+[
+  {
+    "id": "zone_01_village",
+    "name": "Pueblo Central",
+    "width": 32,
+    "height": 24,
+    "tileSize": 32,
+    "description": "El punto de partida de la aventura"
+  }
+]
