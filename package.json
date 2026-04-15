@@ -1,0 +1,13 @@
+{
+  "name": "adolescent-wellness-rpg",
+  "version": "0.1.0",
+  "description": "Educative RPG about adolescent wellness and healthy habits",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "npx http-server -c-1"
+  },
+  "keywords": ["rpg", "phaser", "education", "adolescent", "wellness"],
+  "author": "agutierrez1-ai",
+  "license": "MIT"
+}
